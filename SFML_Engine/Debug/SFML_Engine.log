@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\tygo\desktop\c++ projects\sfml_engine\sfml_engine\main.cpp(184): warning C4553: '==': result of expression not used; did you intend '='?
+  SFML_Engine.vcxproj -> C:\Users\tygo\Desktop\c++ Projects\SFML_Engine\Debug\SFML_Engine.exe
